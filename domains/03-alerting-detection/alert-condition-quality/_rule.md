@@ -8,6 +8,11 @@
 
 _To be completed._
 
+## Primary Use Case
+
+**Use Case Group:** Detect and Resolve  
+**Use Case:** Scale-Induced Degradation
+
 ## Scoring Summary
 
 | Level | Summary |

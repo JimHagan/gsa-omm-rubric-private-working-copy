@@ -8,6 +8,11 @@
 
 _To be completed._
 
+## Primary Use Case
+
+**Use Case Group:** Improve Efficiency  
+**Use Case:** Communication & Architectural Paradigm Shifts
+
 ## Scoring Summary
 
 | Level | Summary |

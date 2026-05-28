@@ -8,6 +8,11 @@
 
 _To be completed._
 
+## Primary Use Case
+
+**Use Case Group:** Improve Efficiency  
+**Use Case:** Infrastructure Right-Sizing & Elasticity
+
 ## Scoring Summary
 
 | Level | Summary |

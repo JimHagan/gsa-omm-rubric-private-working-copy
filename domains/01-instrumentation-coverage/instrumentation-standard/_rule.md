@@ -8,6 +8,11 @@
 
 _To be completed._
 
+## Primary Use Case
+
+**Use Case Group:** Detect and Resolve  
+**Use Case:** Information Transparency & Supportability
+
 ## Scoring Summary
 
 | Level | Summary |
