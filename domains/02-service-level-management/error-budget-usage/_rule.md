@@ -8,6 +8,11 @@
 
 _To be completed._
 
+## Primary Use Case
+
+**Use Case Group:** Improve Quality  
+**Use Case:** Service Availability & Consistency
+
 ## Scoring Summary
 
 | Level | Summary |

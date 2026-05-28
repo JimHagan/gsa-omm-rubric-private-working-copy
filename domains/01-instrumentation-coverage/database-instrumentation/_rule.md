@@ -8,6 +8,11 @@
 
 _To be completed._
 
+## Primary Use Case
+
+**Use Case Group:** Improve Efficiency  
+**Use Case:** Data Access & Persistence Efficiency
+
 ## Scoring Summary
 
 | Level | Summary |

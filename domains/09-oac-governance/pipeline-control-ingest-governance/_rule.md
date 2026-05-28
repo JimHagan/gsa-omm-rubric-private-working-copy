@@ -8,6 +8,11 @@
 
 _To be completed._
 
+## Primary Use Case
+
+**Use Case Group:** Improve Efficiency  
+**Use Case:** Build & Deployment Pipeline Efficiency
+
 ## Scoring Summary
 
 | Level | Summary |
